@@ -1,0 +1,30 @@
+{
+  "name": "standard-boilerplate",
+  "version": "0.0.0",
+  "authors": [
+    "Cole Chamberlain <cole.chamberlain@gmail.com>"
+  ],
+  "description": "Boilerplate related directives and services for standard libraries.",
+  "main": ["./standard-boilerplate.js", "./templates/standard-boilerplate-head.html"],
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "angular",
+    "standard",
+    "boilerplate",
+    "directives",
+    "services",
+    "google",
+    "facebook",
+    "analytics"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
